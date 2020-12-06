@@ -1,6 +1,9 @@
 # HentaiNexusDownloader (Hentai Nexus Downloader)
 don't know about windows but it works on mac!
 
+USE THIS ONE "HentaiNexus alternative copy.py", the other one doesn't work since the website turned their image's source dynamic and it get's added with javascript so we have to use selenium get the images
+
+
 open 2 TABS in terminal, 
 
 in the first tab type:
