@@ -7,10 +7,10 @@ USE THIS ONE "HentaiNexus alternative copy.py", the other one doesn't work since
 open 2 TABS in terminal, 
 
 in the first tab type:
-type "python" or "python3", drag the "py" file into the terminal, {number of  the hentai for example 4509} space {number of the page it has for example 24} 1
+type "python" or "python3", drag the "HentaiNexus alternative copy.py" file into the terminal, {number of  the hentai for example 4509} space {number of the page it has for example 24} 1
 
 in the second tab type:
-type "python" or "python3", drag the "py" file into the terminal, {number of  the hentai for example 4509} space {number of the page it has for example 24} 2
+type "python" or "python3", drag the "HentaiNexus alternative copy.py" file into the terminal, {number of  the hentai for example 4509} space {number of the page it has for example 24} 2
 
 here is the final format:
 python /Users/macintosh/Downloads/HentaiNexusDownloader.py 4089 24 1         in tab 1
