@@ -1,7 +1,7 @@
 # HentaiNexusDownloader (Hentai Nexus Downloader)
 don't know about windows but it works on mac!
 
-USE THIS ONE "HentaiNexus alternative copy.py", the other one doesn't work since the website turned their image's source dynamic and it get's added with javascript so we have to use selenium get the images
+USE THIS ONE "HentaiNexus alternative copy.py", the other one doesn't work since the website turned their image's source dynamic and the images get's added with javascript on the site so we have to use selenium to get the images
 
 
 open 2 TABS in terminal, 
@@ -13,8 +13,8 @@ in the second tab type:
 type "python" or "python3", drag the "HentaiNexus alternative copy.py" file into the terminal, {number of  the hentai for example 4509} space {number of the page it has for example 24} 2
 
 here is the final format:
-python /Users/macintosh/Downloads/HentaiNexusDownloader.py 4089 24 1         in tab 1
-python /Users/macintosh/Downloads/HentaiNexusDownloader.py 4089 24 2         in tab 2
+python /Users/macintosh/Downloads/HentaiNexusDownloader.py 4089 24 1,,,,,,,,,in tab 1,,,,,,
+python /Users/macintosh/Downloads/HentaiNexusDownloader.py 4089 24 2,,,,,,,,,in tab 2,,,,,,
 
 the reason is selenium doesn't support multiThread so it's more efficeint to let one tab downloads the first half of the hentai and let the other tab download the rest
 
